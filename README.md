@@ -23,3 +23,10 @@ and represent it visually.
 ● As a business manager, try to find out the weak areas where you can work to make more profit. 
 
 ● What all business problems you can derive by exploring the data?
+
+### Task 6: Prediction using Decision Tree Algorithm [Link](https://github.com/iamSharukhMulani/Internship-at-The-Spark-Foundation-/tree/main/Task%206%20Prediction%20using%20Decision%20Tree)
+
+● Create the Decision Tree classifier and visualize it graphically. 
+
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
+
